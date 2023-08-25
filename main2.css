@@ -1,0 +1,170 @@
+.row1{
+    position: absolute;
+    top: 0px;
+    left: 500px;
+}
+.btn-success2{
+    color: white;
+    background-color: #28a745;
+    border: 1px solid #28a745;
+    width: 150px;
+}
+
+.btn-primary3{
+    color: white;
+    background-color: #007bff;
+    border: 1px solid #007bff;
+    width: 150px;
+}
+
+.rasm1{
+    width: 250px;
+    height: 200px;
+    position: absolute;
+    top: 10px;
+    left: 250px;
+}
+
+.row2{
+    position: absolute;
+    top: 185px;
+    left: -10px;
+}
+.btn-light4{
+    color: #d6d6d6;
+    background-color: white;
+    border: 1px solid #d6d6d6;
+    width: 150px;
+}
+
+.row3{
+    position: absolute;
+    top: 185px;
+    left: 160px;
+}
+.btn-light5{
+    width: 150px;
+    color: #b5b5b5;
+    background-color: white;
+    border: 1px solid #b5b5b5;
+}
+
+.row4{
+    position: absolute;
+    top: 185px;
+    left: 330px;
+}
+.btn-light6{
+    width: 150px;
+    color: #000000;
+    background-color: white;
+    border: 1px solid #b5b5b5;
+}
+
+.row5{
+    position: absolute;
+    top: 185px;
+    left: 500px;
+}
+.btn-light7{
+    width: 150px;
+    color: #000000;
+    background-color: white;
+    border: 1px solid #1e90ff;
+}
+
+.row6{
+    position: absolute;
+    top: 450px;
+    left: -10px;
+}
+.btn-light8{
+    width: 150px;
+    color: #000000;
+    background-color: white;
+    border: 1px solid #28a745;
+    text-align: left;
+}
+
+.row7{
+    position: absolute;
+    top: 450px;
+    left: 160px;
+}
+.btn-light9{
+    width: 150px;
+    color: #000000;
+    background-color: white;
+    border: 1px solid #dc3545;
+    text-align: left;
+}
+
+.row8{
+    position: absolute;
+    top: 450px;
+    left: 330px;
+}
+.btn-light10{
+    width: 150px;
+    color: #000000;
+    background-color: white;
+    border: 1px solid #b5b5b5;
+    text-align: left;
+}
+
+.row9{
+    position: absolute;
+    top: 450px;
+    left: 500px;
+}
+.btn-light11{
+    width: 150px;
+    color: #000000;
+    background-color: white;
+    border: 1px solid #b5b5b5;
+    text-align: left;
+}
+
+.rasm2{
+    position: absolute;
+    top: 5px;
+    left: 140px;
+}
+.rasm3{
+    position: absolute;
+    top: 5px;
+    left: 140px;
+}
+
+.rasm4{
+    position: absolute;
+    top: 5px;
+    left: 140px;
+}
+.rasm5{
+    position: absolute;
+    top: 5px;
+    left: 140px;
+}
+
+.rasm6{
+    position: absolute;
+    top: 5px;
+    left: 140px;
+}
+.rasm7{
+    position: absolute;
+    top: 5px;
+    left: 140px;
+}
+
+.rasm8{
+    position: absolute;
+    top: 5px;
+    left: 140px;
+}
+.rasm9{
+    position: absolute;
+    top: 5px;
+    left: 140px;
+}

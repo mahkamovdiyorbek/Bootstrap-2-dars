@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="_Bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+
+<!--Bootstrap ranglari:
+1. Primary => ko’krang;
+2. Success => yashilrang;
+3. Warning => sariq rang;
+4. Danger => qizilrang;
+5. Secondary => kulrang;
+6. Dark => qorarang;
+7. Info => moviyrang;
+8. White(light) => oqrang:-->
+
+<div class="container">
+    <div class="row bg-warning">
+        <div class="col-md-4">
+            <p class="font-italic font-weight-bold text-justify text-primary bg-dark">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Aliquam at dolorum libero repellat unde voluptates.
+                Aspernatur, dignissimos dolores facilis id illum molestias
+                officia placeat praesentium quisquam suscipit ullam unde voluptatibus.
+            </p>
+        </div>
+        <div class="col-md-4">
+            <p class="text-success bg-danger font-italic">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Aliquam at dolorum libero repellat unde voluptates.
+                Aspernatur, dignissimos dolores facilis id illum molestias
+                officia placeat praesentium quisquam suscipit ullam unde voluptatibus.
+            </p>
+        </div>
+        <div class="col-md-4">
+            <p class="text-white bg-info font-weight-light">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Aliquam at dolorum libero repellat unde voluptates.
+                Aspernatur, dignissimos dolores facilis id illum molestias
+                officia placeat praesentium quisquam suscipit ullam unde voluptatibus.
+            </p>
+        </div>
+    </div>
+
+    <div class="row my-5">
+        <div class="col-md-6">
+            <button type="button" class="btn btn-primary active">Primary</button>
+            <button type="button" class="btn btn-success disabled">Success</button>
+            <button type="button" class="btn btn-danger">Danger</button>
+            <button type="button" class="btn btn-secondary">Secondary</button>
+        </div>
+        <div class="col-md-6">
+            <a href="#" class="btn btn-outline-warning disabled">Warning</a>
+            <a href="#" class="btn btn-outline-dark active">Dark</a>
+            <a href="#" class="btn btn-outline-info">Info</a>
+            <a href="#" class="btn btn-outline-light">Light</a>
+        </div>
+    </div>
+</div>
+
+<script src="_Bootstrap/js/jQuery.min.js"></script>
+<script src="_Bootstrap/js/src/popover.js"></script>
+<script src="_Bootstrap/js/bootstrap.js"></script>
+</body>
+</html>
